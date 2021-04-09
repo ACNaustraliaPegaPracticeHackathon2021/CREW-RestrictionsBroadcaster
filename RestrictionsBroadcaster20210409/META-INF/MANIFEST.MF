@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Pega-Codeset-Patch: 
+Engine-Version: 08-05-04
+Pega-Codeset-Version: 06-01-01
+ArtifactName: Guidelines
+Synchronizable: false
+ArtifactVersion: 01.01.01
+Type: Product
+Product-Creation-Date: 2021-Mar-30 00:00:00
+Version: 01.01.01
+PRPC-Engine: 8.5.3 PRPC-8.5.3-551 ()
+Operator: joseph.clint.j.molon@accenture.com
+ArtifactType: product
+Pega-Archive-Type: ApplicationBundle
+Name: Guidelines
+Archive-Type: PegaArchive
+Export-Date: 2021-Apr-09 07:11:50
+Pega-Codeset-Name: Customer
+Instance-Count: 3100
+
+Name: FileMetadata
+

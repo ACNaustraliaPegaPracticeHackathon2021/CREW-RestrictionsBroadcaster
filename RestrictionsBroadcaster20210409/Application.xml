@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<application name="Guidelines 01.01.01" description="" >
+	<sarfile name="RestrictionsBroadcaster20210409_schema.jar" order="1"/>
+	<parfile name="RestrictionsBroadcaster20210409_rules.jar" order="2"/>
+</application>
